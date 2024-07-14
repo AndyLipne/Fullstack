@@ -6,4 +6,9 @@ public class Payment
 	{
 		return "payment done through debit card";
 	}
+	
+	public String creditCardPayment()
+	{
+		return "payment done through debit card";
+	}
 }
